@@ -1,5 +1,3 @@
-package hw4;
-
 import java.util.HashSet;
 import java.util.Scanner;
 
